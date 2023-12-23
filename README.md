@@ -11,6 +11,9 @@ I have hands-on experience in making technology choices that align with the proj
 
 As a leader, I believe in fostering a collaborative and inclusive work environment, empowering team members, and mentoring junior developers. I take pride in helping my team members grow both technically and professionally, and I am always eager to share my knowledge and learn from others.   I enjoy working on challenging problems and finding innovative solutions.
 
+##
+
+
 - 🔭 I’m a Full Stack Developer, System Designer, Professional Coder
 - 🌱 I’m currently in the LeetCode world
 - 👯 I’m looking to collaborate on anything that can create an impact on the society
