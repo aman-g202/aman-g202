@@ -3,13 +3,13 @@
 <ul>
 <li>Throughout my career, I have worked on a diverse range of projects, spanning various industries and technologies. I have a deep understanding of the software development life cycle, from requirements gathering and design to implementation, testing, and deployment.</li>
 
-As a Senior Software Developer, I am having the privilege of leading a team of developers, guiding them through complex projects, and problems and ensuring successful delivery. 
+<li>As a Senior Software Developer, I am having the privilege of leading a team of developers, guiding them through complex projects, and problems and ensuring successful delivery.</li>
 
-One of my strengths as a Senior Software Developer is my ability to architect scalable and maintainable solutions with zero point of failure which ensures robustness, integrity, consistency and reliability.
+<li>One of my strengths as a Senior Software Developer is my ability to architect scalable and maintainable solutions with zero point of failure which ensures robustness, integrity, consistency and reliability.</li>
 
-I have hands-on experience in making technology choices that align with the project's requirements and long-term goals. I am well-versed in a range of programming languages, frameworks, and databases, and have a strong foundation in software design patterns, Agile Methodology and best practices.
+<li>I have hands-on experience in making technology choices that align with the project's requirements and long-term goals. I am well-versed in a range of programming languages, frameworks, and databases, and have a strong foundation in software design patterns, Agile Methodology and best practices.</li>
 
-As a leader, I believe in fostering a collaborative and inclusive work environment, empowering team members, and mentoring junior developers. I take pride in helping my team members grow both technically and professionally, and I am always eager to share my knowledge and learn from others.   I enjoy working on challenging problems and finding innovative solutions.
+<li>As a leader, I believe in fostering a collaborative and inclusive work environment, empowering team members, and mentoring junior developers. I take pride in helping my team members grow both technically and professionally, and I am always eager to share my knowledge and learn from others.   I enjoy working on challenging problems and finding innovative solutions.</li>
 </ul>
 
 ##
